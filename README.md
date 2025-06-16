@@ -4,7 +4,7 @@
 
 ---
 
-![Azure](https://img.shields.io/badge/Cloud-Azure-blue) ![ETL](https://img.shields.io/badge/Type-Serverless%20ETL-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue) ![ETL](https://img.shields.io/badge/Type-Serverless%20ETL-green) 
 
 > **TL;DR** – This repository contains the code, scripts, and architecture for an end‑to‑end ETL pipeline that ingests raw JSON ad‑performance data, transforms it using Synapse Serverless, and surfaces curated, analytics‑ready tables to Power BI – all orchestrated with Azure Data Factory.
 
